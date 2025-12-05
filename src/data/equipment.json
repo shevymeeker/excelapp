@@ -1,0 +1,7 @@
+[
+  { "name": "Mixer", "rate": 25 },
+  { "name": "Loader", "rate": 40 },
+  { "name": "Crane", "rate": 60 },
+  { "name": "Pump", "rate": 35 },
+  { "name": "Compactor", "rate": 30 }
+]
