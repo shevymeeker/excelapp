@@ -1,0 +1,7 @@
+[
+  { "name": "Concrete", "unitCost": 120 },
+  { "name": "Rebar", "unitCost": 10 },
+  { "name": "Gravel", "unitCost": 8 },
+  { "name": "Lumber", "unitCost": 15 },
+  { "name": "Pipe", "unitCost": 12 }
+]
